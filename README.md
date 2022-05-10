@@ -13,6 +13,6 @@
 - main font: **Commissioner**
 - mono font: **JetBrains Mono**
 
-## Pallete
+### Pallete
 
 The palette is shifted to the blue-violet part of the spectrum. The base color is _#21222f_
