@@ -16,3 +16,9 @@
 ### Pallete
 
 The palette is shifted to the blue-violet part of the spectrum. The base color is _#21222f_
+
+### Installation
+
+You will need any browser extension to inject a custom style. I suggest using Stylus.
+If you use it, just click on the badge above to install this usercss.
+The Dark default theme must be set in the user preferences to display all the stuff correctly.
